@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Emmanuel Adewara | e-Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      line-height: 1.6;
+      background: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background: #2c3e50;
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    nav {
+      background: #34495e;
+      padding: 10px 0;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 1000px;
+      margin: auto;
+      background: white;
+      margin-top: 10px;
+    }
+    h2 {
+      color: #2c3e50;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #2c3e50;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Emmanuel Adewara</h1>
+    <p>Applied Liberal Arts Major | Morgan State University</p>
+  </header>
+
+  <nav>
+    <a href="#">About</a>
+    <a href="#">Insights Project</a>
+    <a href="#">Field Overview</a>
+    <a href="#">Contact</a>
+  </nav>
+
+  <section>
+    <h2>About Me</h2>
+    <p>This section will contain information about you.</p>
+  </section>
+
+  <footer>
+    &copy; 2025 Emmanuel Adewara
+  </footer>
+
+</body>
+</html>
