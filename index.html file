@@ -53,15 +53,32 @@
   </header>
 
   <nav>
-    <a href="#">About</a>
-    <a href="#">Insights Project</a>
-    <a href="#">Field Overview</a>
-    <a href="#">Contact</a>
+    <a href="#about">About</a>
+    <a href="#insights">Insights Project</a>
+    <a href="#field">Field Overview</a>
+    <a href="#contact">Contact</a>
   </nav>
 
-  <section>
+  <section id="about">
     <h2>About Me</h2>
-    <p>This section will contain information about you.</p>
+    <p>Hello! I'm Emmanuel Adewara, a senior at Morgan State University majoring in Applied Liberal Arts. I'm passionate about helping others and am particularly interested in working as a social worker or counselor. My academic journey and personal values have led me to focus on the well-being of individuals, especially older adults experiencing isolation.</p>
+  </section>
+
+  <section id="insights">
+    <h2>Insights Project</h2>
+    <p>For my senior research project, I focused on social isolation in elder care. I explored how loneliness affects the mental and emotional health of older adults and what practical strategies can be implemented in communities and institutions to address this issue. My research underscores the need for empathy, support networks, and inclusive programming for the elderly.</p>
+  </section>
+
+  <section id="field">
+    <h2>Field Overview</h2>
+    <p>My career goal is to become a counselor or social worker. I'm deeply committed to addressing social challenges, particularly those affecting vulnerable populations like the elderly. Through internships, coursework, and community involvement, I have developed a strong foundation in communication, active listening, and advocacy—all crucial for work in this field.</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: emade7@morgan.edu</p>
+    <p>Phone: (123) 456-7890</p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/" target="_blank">Your Profile</a></p>
   </section>
 
   <footer>
